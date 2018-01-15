@@ -20,6 +20,7 @@ void readfile(string,string,string);
 void readfile(string,string,int);
 void readfile(string);
 //********************************CLASS DONOR_DETAILS**********************
+
 class Donor_details
 {
   string name,gender,city,blood;// add ailments later
